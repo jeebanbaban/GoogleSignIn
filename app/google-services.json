@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198107259777",
+    "project_id": "southern-zephyr-195005"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198107259777:android:73922d7e7d9a00b2",
+        "android_client_info": {
+          "package_name": "com.ingreens.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198107259777-psmkmi8es5uc0qlgi0u9q64ehs5nrjhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ingreens.googlesignin",
+            "certificate_hash": "01472b7b1d85e06e40907242e8bcd5f563599832"
+          }
+        },
+        {
+          "client_id": "198107259777-ttn80ns9oi04ru6l327dvs44ur7483im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nFXIG_lbVeUtqflMBnJaw2eiFB7CsGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
